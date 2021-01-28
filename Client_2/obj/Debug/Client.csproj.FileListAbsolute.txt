@@ -1,0 +1,54 @@
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\Client_2.exe.config
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\Client_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\Client_2.pdb
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\DAL_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\Domain_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\EntityFramework.dll
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\DAL_2.pdb
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\DAL_2.exe.config
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\Domain_2.pdb
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\Domain_2.exe.config
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\EntityFramework.xml
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\obj\Debug\Client.csproj.CopyComplete
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\obj\Debug\Client_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\Client_2\obj\Debug\Client_2.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\Client_2.exe.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\Client_2.exe
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\Client_2.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\DAL_2.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\Domain_2.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\DAL_2.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\DAL_2.dll.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\Domain_2.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\Domain_2.dll.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.xml
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\obj\Debug\Client.csproj.CopyComplete
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\obj\Debug\Client_2.exe
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Client_2\obj\Debug\Client_2.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\Client.dll.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\Client.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\Client.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\DAL.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\Domain.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\DAL.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\DAL.dll.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\Domain.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\Domain.dll.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.xml
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\obj\Debug\Client.csproj.CopyComplete
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\obj\Debug\Client.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Client_2\obj\Debug\Client.pdb

@@ -1,0 +1,17 @@
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Domain_2\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Domain_2\bin\Debug\Domain_2.dll.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Domain_2\bin\Debug\Domain_2.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Domain_2\bin\Debug\Domain_2.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Domain_2\obj\Debug\Domain_2.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\C# Avançado II\Projectos\APC_P6_AnaClaraRibas\Domain_2\obj\Debug\Domain_2.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\bin\Debug\Domain.dll.config
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\bin\Debug\Domain.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\bin\Debug\Domain.pdb
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\bin\Debug\EntityFramework.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\bin\Debug\EntityFramework.xml
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\obj\Debug\Domain.dll
+C:\Users\rfgomes\Downloads\Power Code\Visual Studio\Programação Web Avançada\Project_07\APC_P7_AnaClaraRibas\Domain_2\obj\Debug\Domain.pdb

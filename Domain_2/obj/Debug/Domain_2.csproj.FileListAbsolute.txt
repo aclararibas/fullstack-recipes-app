@@ -1,0 +1,7 @@
+C:\Users\ACR\Downloads\clara-project5-master\Domain_2\bin\Debug\Domain_2.exe.config
+C:\Users\ACR\Downloads\clara-project5-master\Domain_2\bin\Debug\Domain_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\Domain_2\bin\Debug\Domain_2.pdb
+C:\Users\ACR\Downloads\clara-project5-master\Domain_2\obj\Debug\Domain_2.csprojAssemblyReference.cache
+C:\Users\ACR\Downloads\clara-project5-master\Domain_2\obj\Debug\Domain_2.csproj.CoreCompileInputs.cache
+C:\Users\ACR\Downloads\clara-project5-master\Domain_2\obj\Debug\Domain_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\Domain_2\obj\Debug\Domain_2.pdb

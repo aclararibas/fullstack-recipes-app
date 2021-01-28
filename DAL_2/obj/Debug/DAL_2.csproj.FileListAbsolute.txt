@@ -1,0 +1,15 @@
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\obj\Debug\DAL_2.csprojAssemblyReference.cache
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\obj\Debug\DAL_2.csproj.CoreCompileInputs.cache
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\DAL_2.exe.config
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\DAL_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\DAL_2.pdb
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\Domain_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\EntityFramework.dll
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\Domain_2.pdb
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\Domain_2.exe.config
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\EntityFramework.xml
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\obj\Debug\DAL_2.csproj.CopyComplete
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\obj\Debug\DAL_2.exe
+C:\Users\ACR\Downloads\clara-project5-master\DAL_2\obj\Debug\DAL_2.pdb
